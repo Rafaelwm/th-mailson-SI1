@@ -1,0 +1,71 @@
+lista  git.txt
+<html>
+<head>
+<meta charset="UTF-8">
+<title>html 1</title>
+</head>
+<p>
+<img src="https://m.gifmania.com.mx/Gifs-Animados-Tecnologia/Gif-Animadas-Informatica/Imagenes-Animadas-Chips/Chip-Parpadeando-89628.gif"
+width="500" height="250">
+</p>
+<html>
+<body background="https://masterjuris.com.br/wp-content/uploads/2019/02/informatica-1024x683.jpg">
+       <title><font color="#FFFF00"><u><i>10 Séries que gosto</font></i></u></title>
+   </head>
+   <body>
+
+       <h1> <font color="#FFFF00"><u><i>10 Séries que gosto</font></i></u> 
+	   <p>
+       <table border=2 bgcolor="#E0FFFF" width=80% height=20%>
+    <tr>
+       <th>SERIE</th>
+       <th>SINOPSE</th>
+    </tr>
+	<tr>
+        <td>Arrow</td>
+        <td><a href="https://www.netflix.com/br/title/70242081">clique aqui!</a ></td>
+    </tr>
+	<tr>
+        <td>Homens de Coragem</td>
+        <td><a href="https://www.netflix.com/br/title/80182216">clique aqui!</a></td>
+    </tr>        
+    <tr>
+        <td>Shadowhunters</td>
+        <td><a href="https://www.netflix.com/br/title/80084447">clique aqui!</a></td>
+   </tr>   
+   <tr>
+        <td>Até o Último Homem</td>
+        <td><a href="https://www.adorocinema.com/filmes/filme-208104"/>clique aqui!</a></td>
+   </tr>        
+    <tr>
+        <td>The 100</td>
+        <td><a href="https://www.netflix.com/br/title/70283264">clique aqui!</a></td>
+    </tr>        
+    <tr>
+        <td>Ponto Cego</td>
+        <td><a href="https://www.netflix.com/br/title/80058486">clique aqui!</a></td>
+    </tr>		
+	<tr>
+        <td>O ultimo guardião</td>
+        <td><a href="https://www.netflix.com/br/title/80189829">clique aqui!</a></td>
+    </tr>
+	<tr>
+        <td>Travelers</td>
+        <td><a href="https://www.netflix.com/br/title/80105699">clique aqui!</a></td>
+    </tr>    
+	<tr>
+        <td>Ragnarok</td>
+        <td><a href="https://www.netflix.com/br/title/80232926">clique aqui!</a></td>
+    </tr>
+    <tr>
+        <td>O Justiceiro</td>
+        <td><a href="https://www.netflix.com/br/title/80117498">clique aqui!</a></td>
+    </tr>      	 
+	   </table>
+    </body>
+<tr>
+<p>
+<font color="#F5FFFA">Aluno: </font><font color="#00FF00"> Rafael Wender</font>
+<br>
+</body>
+</html>
